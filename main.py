@@ -185,4 +185,4 @@ Usage:  python3 main.py -h header.txt -e email.txt
         -e $EMAILFILE  --email $EMAILFILE''')
 
     else:
-        print('{RED}[+]{WHITE} Required Python Version > 3.8!')
+        print(f'{RED}[+]{WHITE} Required Python Version > 3.8!')
